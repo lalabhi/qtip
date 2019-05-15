@@ -1,0 +1,8 @@
+qtip.mainform:
+  path: 'admin/config/user-interface/qtip'
+  defaults:
+    _title: 'qTip'
+    _description: Configure qTip tooltips for use on the site.'
+    _form: '\Drupal\qtip\Form\qtipForm'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,6 @@
+name: qtip
+type: module
+description: Stylish tooltips for web pages.
+core: 8.x
+dependencies:
+  - ctools
